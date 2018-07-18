@@ -20,7 +20,7 @@ namespace GitPlayground
             speakers.Add(new SpeakerAlex());
             speakers.Add(new SpeakerOliver());
 
-            Console.WriteLine("Hello World!!");
+            Console.WriteLine("Hello Priya");
 
 
             foreach (var messageSpeaker in speakers)
